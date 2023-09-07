@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shitanshu Kumar</h1>
+<h1 align="center">Hi 👋, I'm Peeyush Sinha</h1>
 <h3 align="center">A I'm a frontend and web3 Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shitanshuk32&label=Profile%20views&color=0e75b6&style=flat" alt="shitanshuk32" /> </p>
 
 - 💬 Ask me about *Frontend and web3.*
 
-- 📫 How to reach me *shitanshuk32@gmail.com*
+- 📫 How to reach me *peeyushsinha238@gmail.com*
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KoitWz8e-fQS5G8SnziJIFRtp62v3JBt/view?usp=sharing" target="_blank">Download Resume</a>
 
