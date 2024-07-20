@@ -7,7 +7,7 @@
 
 - 📫 How to reach me *peeyushsinha238@gmail.com*
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1taFmowXr3TYuE8QnksTr9IhtsPVw8Zhd/view?usp=drive_link" target="_blank">Download Resume</a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1taFmowXr3TYuE8QnksTr9IhtsPVw8Zhd/view?usp=drive_link](https://docs.google.com/document/d/1mI24rQS8zuAHk5q7XaSNS08JbfMwR4zM/edit?usp=drive_link&ouid=103840533885675666770&rtpof=true&sd=true)" target="_blank">Download Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
